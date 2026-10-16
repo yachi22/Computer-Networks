@@ -8,7 +8,7 @@ int main()
     int h[8]; // Using positions 1 to 7
 
     cout << "=====================================\n";
-    cout << "       HAMMING CODE (7,4)\n";
+    cout << "       HAMMING CODE (7,4)\n";w
     cout << "=====================================\n";
 
     // ---------- TRANSMITTER ----------
